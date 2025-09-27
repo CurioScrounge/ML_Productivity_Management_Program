@@ -1,0 +1,44 @@
+{
+    "wait_time": "10",
+    "sessions": [
+        {
+            "start_time": "20:00",
+            "end_time": "01:00",
+            "days": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+            ]
+        }
+    ],
+    "categories": {
+        "Social Media": true,
+        "Games": true,
+        "Video Entertainment": true,
+        "Visual Entertainment": false,
+        "Forums": false,
+        "Online Shopping": false,
+        "Productivity Killers": true
+    },
+    "whitelisted_sites": [],
+    "blacklisted_sites": [],
+    "productive_sites": [
+        "docs.google.com",
+        "www.workramp.com/blog/what-is-leadership-development/",
+        "www.workramp.com/blog/what-is-sales-training/",
+        "slides.google.com",
+        "mail.google.com",
+        "scholar.google.com",
+        "khanacademy.org",
+        "coursera.org",
+        "edx.org",
+        "canva.com",
+        "drive.google.com"
+    ],
+    "override_delay": true,
+    "warning_message": "No."
+}
